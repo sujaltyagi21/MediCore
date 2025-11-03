@@ -1,5 +1,4 @@
 
-#MediCore
 # 1. Project Summary
 
 The Spring Boot Clinic Management System is a strong backend system made to make managing a medical clinic easier.
