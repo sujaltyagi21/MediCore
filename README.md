@@ -189,4 +189,4 @@ This ERD shows the database tables and their relationships. The entity classes b
 This flowchart shows the complete steps when a patient books an appointment.
 It visualizes the whole process from logging in to confirming an appointment, showing how the user moves through the system to complete the task.
 
-http://googleusercontent.com/image_generation_content/0
+
